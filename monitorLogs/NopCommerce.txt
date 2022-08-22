@@ -1,0 +1,3 @@
+[INFO ] [2022-08-16 03:02:11,165] --------------START delete file in folder -----------
+[INFO ] [2022-08-16 03:02:11,173] --------------END delete file in folder -----------
+[INFO ] [2022-08-16 03:02:42,774] OS name = windows 10

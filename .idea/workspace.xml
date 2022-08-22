@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a68e2fab-673c-4106-85fb-94a2102581d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserExtentions/extension_2_0_12_0.crx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserExtentions/extension_4_4_8_0.crx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserExtentions/selectorshub-4.3.4.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserlogs/chrome.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserlogs/firefox.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extentReports/ExtentReportV2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitorLogs/NopCommerce.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitorLogs/NopCommerce.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/GlobalConstans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enviromentConfig/Environment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/HomePageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/MobilePgeObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/MyDashboardPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/PageGeneratorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/RegisterPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/HomePageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/LoginPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/MobilePageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/MyDashboardPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/DataUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/ExcelConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/GmailConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/JDBCConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/PropertiesConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/XMLConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cucumberOptions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cucumberOptions/RunCucumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/registerAndLogin.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinications/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinications/DataContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinications/HomePageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinications/LoginPageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinications/RegisterPageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinications/TestContext.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Diomcdihjff4h7SvzlTwTEOCr6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/WORKSPACE/Viettel-VCS/src/test/java/stepDefinications"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WORKSPACE\Viettel-VCS\src\test\java\stepDefinications" />
+      <recent name="E:\WORKSPACE\Viettel-VCS\src\test\java\cucumberOptions" />
+      <recent name="E:\WORKSPACE\Viettel-VCS\src\main\java\pageUIs" />
+      <recent name="E:\WORKSPACE\Viettel-VCS\src\main\java\pageObjects" />
+      <recent name="E:\WORKSPACE\Viettel-VCS" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a68e2fab-673c-4106-85fb-94a2102581d5" name="Changes" comment="" />
+      <created>1661191429552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661191429552</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
